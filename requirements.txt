@@ -1,0 +1,4 @@
+ipython [all]
+matplotlib==1.4.3
+numpy
+pandas
